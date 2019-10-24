@@ -1,2 +1,3 @@
 # WordScramble-SwiftUI
-![Optional Text](..master/WordScramble.png)
+![Optional Text](../master/WordScramble.png)
+
